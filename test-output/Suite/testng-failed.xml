@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="hero.FileDownload">
+        <methods>
+          <include name="Filedownload"/>
+        </methods>
+      </class> <!-- hero.FileDownload -->
+      <class name="hero.Challenging">
+        <methods>
+          <include name="exeChalleng"/>
+        </methods>
+      </class> <!-- hero.Challenging -->
+      <class name="hero.ABTesting">
+        <methods>
+          <include name="executeabTC"/>
+        </methods>
+      </class> <!-- hero.ABTesting -->
+      <class name="hero.JquerryUImenu">
+        <methods>
+          <include name="drapanddrop"/>
+        </methods>
+      </class> <!-- hero.JquerryUImenu -->
+      <class name="hero.SecureDownloadFiles">
+        <methods>
+          <include name="drapanddrop"/>
+        </methods>
+      </class> <!-- hero.SecureDownloadFiles -->
+      <class name="hero.formAUTH">
+        <methods>
+          <include name="CHECKbox"/>
+        </methods>
+      </class> <!-- hero.formAUTH -->
+      <class name="hero.InfinitScroll">
+        <methods>
+          <include name="exeAddnRemove"/>
+        </methods>
+      </class> <!-- hero.InfinitScroll -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

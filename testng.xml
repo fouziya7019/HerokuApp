@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/ABTesting.java">
+        <classes>
+            <class name="hero.ABTesting">
+                <methods>
+                    <include name="executeabTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/AddAndRemove.java">
+        <classes>
+            <class name="hero.AddAndRemove">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Basicandauth.java">
+        <classes>
+            <class name="hero.Basicandauth">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Brokenimage.java">
+        <classes>
+            <class name="hero.Brokenimage">
+                <methods>
+                    <include name="exebroken"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Challenging.java">
+        <classes>
+            <class name="hero.Challenging">
+                <methods>
+                    <include name="exeChalleng"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Checkbox.java">
+        <classes>
+            <class name="hero.Checkbox">
+                <methods>
+                    <include name="exeCheckbox"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Contextbox.java">
+        <classes>
+            <class name="hero.Contextbox">
+                <methods>
+                    <include name="exeCheckbox"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Digestauthentic.java">
+        <classes>
+            <class name="hero.Digestauthentic">
+                <methods>
+                    <include name="exeDigestauthentic"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/DisappearingElements.java">
+        <classes>
+            <class name="hero.DisappearingElements">
+                <methods>
+                    <include name="exeChalleng"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/drapanddrop.java">
+        <classes>
+            <class name="hero.drapanddrop">
+                <methods>
+                    <include name="drapanddrop"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/DropdownButton.java">
+        <classes>
+            <class name="hero.DropdownButton">
+                <methods>
+                    <include name="exedropdown"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/DynamicContent.java">
+        <classes>
+            <class name="hero.DynamicContent">
+                <methods>
+                    <include name="Challenging"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/DynamicControl.java">
+        <classes>
+            <class name="hero.DynamicControl">
+                <methods>
+                    <include name="dynamic"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/DynamicLoading.java">
+        <classes>
+            <class name="hero.DynamicLoading">
+                <methods>
+                    <include name="DynamicLoading"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/ExitIntent.java">
+        <classes>
+            <class name="hero.ExitIntent">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/FileDownload.java">
+        <classes>
+            <class name="hero.FileDownload">
+                <methods>
+                    <include name="Filedownload"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/FileUpload.java">
+        <classes>
+            <class name="hero.FileUpload">
+                <methods>
+                    <include name="FileUpload"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Floatingmenu.java">
+        <classes>
+            <class name="hero.Floatingmenu">
+                <methods>
+                    <include name="Float"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/ForgotPassword.java">
+        <classes>
+            <class name="hero.ForgotPassword">
+                <methods>
+                    <include name="forgotpassword"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/formAUTH.java">
+        <classes>
+            <class name="hero.formAUTH">
+                <methods>
+                    <include name="CHECKbox"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Frames.java">
+        <classes>
+            <class name="hero.Frames">
+                <methods>
+                    <include name="exeframes"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/GeoLocation.java">
+        <classes>
+            <class name="hero.GeoLocation">
+                <methods>
+                    <include name="exelocation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/HORIZONTAL.java">
+        <classes>
+            <class name="hero.HORIZONTAL">
+                <methods>
+                    <include name="Float"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/InfinitScroll.java">
+        <classes>
+            <class name="hero.InfinitScroll">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/INPUT.java">
+        <classes>
+            <class name="hero.INPUT">
+                <methods>
+                    <include name="INPUT"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/JAVAloadError.java">
+        <classes>
+            <class name="hero.JAVAloadError">
+                <methods>
+                    <include name="JAVAloadError"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/javascrip.java">
+        <classes>
+            <class name="hero.javascrip">
+                <methods>
+                    <include name="javascript"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/KeyPress.java">
+        <classes>
+            <class name="hero.KeyPress">
+                <methods>
+                    <include name="KeyPress"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/large.java">
+        <classes>
+            <class name="hero.large">
+                <methods>
+                    <include name="large"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/MultipeWindows.java">
+        <classes>
+            <class name="hero.MultipeWindows">
+                <methods>
+                    <include name="exebroken"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/NestedFrames.java">
+        <classes>
+            <class name="hero.NestedFrames">
+                <methods>
+                    <include name="NestedFrames"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/NotificationMessage.java">
+        <classes>
+            <class name="hero.NotificationMessage">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/REDIRECTLINK.java">
+        <classes>
+            <class name="hero.REDIRECTLINK">
+                <methods>
+                    <include name="executeabTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/SecureDownloadFiles.java">
+        <classes>
+            <class name="hero.SecureDownloadFiles">
+                <methods>
+                    <include name="drapanddrop"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/ShadowDOM.java">
+        <classes>
+            <class name="hero.ShadowDOM">
+                <methods>
+                    <include name="exeChalleng"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Shift.java">
+        <classes>
+            <class name="hero.Shift">
+                <methods>
+                    <include name="disapper"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Slowresource.java">
+        <classes>
+            <class name="hero.Slowresource">
+                <methods>
+                    <include name="exeAddnRemove"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/SORTEDTABLES.java">
+        <classes>
+            <class name="hero.SORTEDTABLES">
+                <methods>
+                    <include name="exeCheckbox"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/FouziyaBanu/Desktop/Appium automation testing/mavensample/src/test/java/hero/Test.java">
+        <classes/>
+    </test>
+</suite>
